@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Venkat-1405
 - 👀 I’m interested in learning program
-- 🌱 I’m currently learning c language
+- 🌱 I’m currently learning python language
 - 💞️ I’m looking to collaborate on programmer
 - 📫 reach me at venkatb1405@gmail.com
 
